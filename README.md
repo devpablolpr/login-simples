@@ -1,2 +1,4 @@
-# login-simples
-Sistema de login criado com HTML e CSS 
+# Login Simples
+Sistema de login, criado para estudos.
+
+HTML, CSS
