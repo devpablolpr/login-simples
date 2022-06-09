@@ -1,4 +1,4 @@
 # Login Simples
-Sistema de login, criado para estudos.
+Tela de login, criado para estudos.
 
 HTML, CSS
